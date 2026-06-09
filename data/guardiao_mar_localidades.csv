@@ -1,0 +1,25 @@
+﻿Fonte: IBAMA — ibama.gov.br/manchasdeoleo | Uso: prototipo Guardiao do Mar — Global Solution FIAP 2026,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+OID,Nome da Localidade,Município,Estado,DDLat,DDLon,Data Avistamento,Data Revisita,Status Original,Cobertura (%),Nível Alerta,Cor Interface,Dias Exposição,Fonte,Ano,Tipo Dado
+153,Sagi,Baía Formosa,RN,-6.47,-34.97,06/09/2019,03/11/2019,vestígios (<1%),0.5,MONITORAMENTO,#1D9E75,58,IBAMA,2019,historico
+154,Praia de Areia Preta,Natal,RN,-5.79,-35.19,16/09/2019,03/11/2019,esparso (1 a 10%),5,MODERADO,#FAC775,48,IBAMA,2019,historico
+155,Praia de Barreta,Nísia Floresta,RN,-6.11,-35.1,02/11/2019,02/11/2019,esparso (1 a 10%),5,MODERADO,#FAC775,0,IBAMA,2019,historico
+156,Pirangi do Sul,Nísia Floresta,RN,-5.99,-35.12,10/09/2019,02/11/2019,esparso (1 a 10%),5,MODERADO,#FAC775,53,IBAMA,2019,historico
+157,Praia de Zumbi,Rio do Fogo,RN,-5.32,-35.36,10/09/2019,03/11/2019,manchas (20%),20,ALERTA,#EF9F27,54,IBAMA,2019,historico
+158,Foz do Rio Pirangi/Pium,Nísia Floresta,RN,-5.98,-35.12,10/09/2019,02/11/2019,manchas (20%),20,ALERTA,#EF9F27,53,IBAMA,2019,historico
+159,Sibaúma/Das Minas,Tibau do Sul,RN,-6.26,-35.04,10/09/2019,03/11/2019,manchas (20%),20,ALERTA,#EF9F27,54,IBAMA,2019,historico
+160,Ponta da Ilha Verde,Nísia Floresta,RN,-6.01,-35.11,11/09/2019,25/10/2019,manchas (20%),20,ALERTA,#EF9F27,44,IBAMA,2019,historico
+161,Praia de Alagamar,Natal,RN,-5.89,-35.15,23/09/2019,23/09/2019,esparso (1 a 10%),5,MODERADO,#FAC775,0,IBAMA,2019,historico
+162,Praia do Gado Bravo,Tibau,RN,-4.88,-37.22,24/10/2019,28/10/2019,esparso (1 a 10%),5,MODERADO,#FAC775,4,IBAMA,2019,historico
+163,Praia de Rendinha Nova,Extremoz,RN,-5.72,-35.2,22/10/2019,27/10/2019,manchas (20%),20,ALERTA,#EF9F27,5,IBAMA,2019,historico
+164,Praia de Cacimbinhas,Tibau do Sul,RN,-6.2,-35.08,23/10/2019,27/10/2019,manchas (20%),20,ALERTA,#EF9F27,4,IBAMA,2019,historico
+165,Praia de Graçandu,Extremoz,RN,-5.65,-35.22,27/10/2019,,vestígios (<1%),0.5,MONITORAMENTO,#1D9E75,,IBAMA,2019,historico
+166,Praia do Pontal,Baía Formosa,RN,-6.32,-35.03,26/10/2019,,esparso (1 a 10%),5,MODERADO,#FAC775,,IBAMA,2019,historico
+167,Praia do Madeiro,Tibau do Sul,RN,-6.22,-35.07,27/10/2019,,esparso (1 a 10%),5,MODERADO,#FAC775,,IBAMA,2019,historico
+168,Praia do Amor,Tibau do Sul,RN,-6.23,-35.04,09/09/2019,26/10/2019,vestígios (<1%),0.5,MONITORAMENTO,#1D9E75,47,IBAMA,2019,historico
+169,Pirambu,Tibau do Sul,RN,-6.19,-35.09,09/09/2019,01/10/2019,esparso (1 a 10%),5,MODERADO,#FAC775,22,IBAMA,2019,historico
+170,Via Costeira,Natal,RN,-5.81,-35.18,06/09/2019,03/11/2019,esparso (1 a 10%),5,MODERADO,#FAC775,58,IBAMA,2019,historico
+171,Rio Punaú,Rio do Fogo,RN,-5.35,-35.36,10/09/2019,08/10/2019,vestígios (<1%),0.5,MONITORAMENTO,#1D9E75,28,IBAMA,2019,historico
+172,Foz do Rio Catu,Canguaretama,RN,-6.29,-35.03,11/09/2019,24/10/2019,vestígios (<1%),0.5,MONITORAMENTO,#1D9E75,43,IBAMA,2019,historico
+173,Praia do Giz,Tibau do Sul,RN,-6.18,-35.09,09/09/2019,29/10/2019,descontínua (70%),70,CRÍTICO,#E24B4A,50,IBAMA,2019,historico
+174,Cotolelo,Parnamirim,RN,-5.96,-35.15,10/09/2019,27/10/2019,descontínua (60%),60,CRÍTICO,#E24B4A,47,IBAMA,2019,historico
+175,Pirangi do Norte,Parnamirim,RN,-5.97,-35.13,10/09/2019,31/10/2019,descontínua (60%),60,CRÍTICO,#E24B4A,51,IBAMA,2019,historico
