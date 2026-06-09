@@ -132,11 +132,11 @@ O dashboard abre automaticamente no navegador em `http://localhost:8501`.
 
 ## Integrantes
 
-| Nome | RM |
-|------|----|
-| Gabriel Palmeira | 563522 |
-| Mayara Mota | 563887 |
-| Lucas Gambini | 564750 |
+| Nome |
+|------|
+| Gabriel Palmeira 
+| Mayara Mota 
+| Lucas Gambini
 
 ---
 
