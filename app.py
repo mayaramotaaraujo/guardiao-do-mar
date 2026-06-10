@@ -10,6 +10,7 @@ from features.feature_mapa      import tela_mapa
 from features.feature_alertas   import tela_alertas
 from features.feature_historico import tela_historico
 from features.feature_boia      import tela_boia
+from features.feature_assistente import tela_assistente
 from state.estado_sessao        import inicializar
 
 st.set_page_config(
@@ -154,8 +155,8 @@ if len(df_fogo_filtrado) == 0:
 # ─── NAVEGAÇÃO COM ÍCONES VETORIAIS ───────────────────────────────────────────
 aba_selecionada = option_menu(
     menu_title=None,
-    options=["Mapa do Litoral", "Alertas Ativos", "Historico e Graficos", "Boia Costeira"],
-    icons=["map", "exclamation-triangle", "bar-chart-line", "broadcast-pin"],
+    options=["Mapa do Litoral", "Alertas Ativos", "Historico e Graficos", "Boia Costeira", "Assistente IA"],
+    icons=["map", "exclamation-triangle", "bar-chart-line", "broadcast-pin", "robot"],
     menu_icon=None,
     default_index=0,
     orientation="horizontal",
@@ -198,6 +199,9 @@ elif aba_selecionada == "Historico e Graficos":
 
 elif aba_selecionada == "Boia Costeira":
     tela_boia(df_oleo_filtrado)
+
+elif aba_selecionada == "Assistente IA":
+    tela_assistente(df_oleo_filtrado)
 
 # ─── RODAPÉ ───────────────────────────────────────────────────────────────────
 st.markdown("---")
